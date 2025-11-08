@@ -32,3 +32,18 @@ console.log("Sum of Array Elements: ", sum);
 // let arrayValue = [1, 2, 3, 4, 5];
 // reverseArrayInPlace(arrayValue);
 // console.log(arrayValue); // outputs [5, 4, 3, 2, 1]
+const myNumbers = [1, 2, 3, 4, 5];
+ const reverse = [5, 4, 3, 2, 1];
+ while (myNumbers.length === 0) {
+    reverse.push(1);
+    reverse.pop(5)
+ }
+ console.log(reverse);
+
+///////////////////////////////////////////////
+
+
+
+
+
+
