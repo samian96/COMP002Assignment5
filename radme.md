@@ -8,3 +8,5 @@ created a function to display an array of numbers 1-10 in order. Used for and re
 Added a let a = and let sum.reduce to find the sum of all the numbers in the a array. 
 - Update 4:
 created a function to reverse an array using a while loop with push and pop functions in it.
+- update 5:
+fixed function for reversing array, built in reverse function, created custom function using pop and push method.
